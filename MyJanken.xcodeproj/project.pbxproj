@@ -14,6 +14,7 @@
 		3213DB1B24B9699C001A2CCD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3213DB1A24B9699C001A2CCD /* Assets.xcassets */; };
 		3213DB1E24B9699C001A2CCD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3213DB1C24B9699C001A2CCD /* LaunchScreen.storyboard */; };
 		326AF0CF24C6C373005DE584 /* UIImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 326AF0CE24C6C373005DE584 /* UIImageExtension.swift */; };
+		326AF0D324C6CEE5005DE584 /* EffectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 326AF0D224C6CEE5005DE584 /* EffectViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3213DB1D24B9699C001A2CCD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3213DB1F24B9699C001A2CCD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		326AF0CE24C6C373005DE584 /* UIImageExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageExtension.swift; sourceTree = "<group>"; };
+		326AF0D224C6CEE5005DE584 /* EffectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3213DB1524B9699A001A2CCD /* ViewController.swift */,
 				326AF0CE24C6C373005DE584 /* UIImageExtension.swift */,
 				3213DB1724B9699A001A2CCD /* Main.storyboard */,
+				326AF0D224C6CEE5005DE584 /* EffectViewController.swift */,
 				3213DB1A24B9699C001A2CCD /* Assets.xcassets */,
 				3213DB1C24B9699C001A2CCD /* LaunchScreen.storyboard */,
 				3213DB1F24B9699C001A2CCD /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				326AF0D324C6CEE5005DE584 /* EffectViewController.swift in Sources */,
 				3213DB1624B9699A001A2CCD /* ViewController.swift in Sources */,
 				3213DB1224B9699A001A2CCD /* AppDelegate.swift in Sources */,
 				3213DB1424B9699A001A2CCD /* SceneDelegate.swift in Sources */,
